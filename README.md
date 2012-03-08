@@ -1,0 +1,1 @@
+# SimpleOnCouch - example of CouchApp application for RW articles
