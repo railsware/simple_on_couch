@@ -6,8 +6,8 @@ ddoc =
   { _id:'_design/app'
   , rewrites : 
     [ {from:"/", to:'index.html'}
-    , {from:"/api", to:'../../'}
-    , {from:"/api/*", to:'../../*'}
+    , {from:"/app", to:'../../'}
+    , {from:"/app/*", to:'../../*'}
     , {from:"/*", to:'*'}
     ]
   }
